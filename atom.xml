@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>谢橦的博客</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://vickyxt.com/"/>
+  <updated>2017-03-01T15:13:31.000Z</updated>
+  <id>https://vickyxt.com/</id>
+  
+  <author>
+    <name>谢橦</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【Solr6.3学习】从MySQL中导入数据</title>
+    <link href="https://vickyxt.com/posts/solr/2017-03-01-link-mysql.html"/>
+    <id>https://vickyxt.com/posts/solr/2017-03-01-link-mysql.html</id>
+    <published>2017-03-01T06:10:55.000Z</published>
+    <updated>2017-03-01T15:13:31.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;准备环境&quot;&gt;&lt;a href=&quot;#准备环境&quot; class=&quot;headerlink&quot; title=&quot;准备环境&quot;&gt;&lt;/a&gt;准备环境&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Solr6.3&lt;/li&gt;
+&lt;li&gt;MySQL数据表&lt;/li&gt;
+&lt;li&gt;mysql-connector-java-
+    
+    </summary>
+    
+      <category term="Solr" scheme="https://vickyxt.com/categories/solr/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【Solr6.3学习】配置中文分词库IKAnalyzer</title>
+    <link href="https://vickyxt.com/posts/solr/2017-03-01-add-ikanalyzer.html"/>
+    <id>https://vickyxt.com/posts/solr/2017-03-01-add-ikanalyzer.html</id>
+    <published>2017-03-01T03:25:40.000Z</published>
+    <updated>2017-03-01T15:07:15.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Solr有多种分词器可以使用，本文以IKAnalyzer中文分词库为例，介绍Solr6.3中中文分词器的配置。&lt;/p&gt;
+&lt;h2 id=&quot;准备环境&quot;&gt;&lt;a href=&quot;#准备环境&quot; class=&quot;headerlink&quot; title=&quot;准备环境&quot;&gt;&lt;/a&gt;准备环境&lt;/h2&gt;&lt;u
+    
+    </summary>
+    
+      <category term="Solr" scheme="https://vickyxt.com/categories/solr/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【Solr6.3学习】hello &amp; 创建core</title>
+    <link href="https://vickyxt.com/posts/solr/2017-03-01-add-core.html"/>
+    <id>https://vickyxt.com/posts/solr/2017-03-01-add-core.html</id>
+    <published>2017-03-01T03:25:40.000Z</published>
+    <updated>2017-03-01T03:25:40.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to my blog！最近在做关于solr的毕业设计，在此分享一些我的学习心得~&lt;br&gt;本篇文章先从最简单的创建core开始。&lt;/p&gt;
+&lt;h2 id=&quot;Create-a-core&quot;&gt;&lt;a href=&quot;#Create-a-core&quot; class=&quot;header
+    
+    </summary>
+    
+      <category term="Solr" scheme="https://vickyxt.com/categories/solr/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Hi World</title>
+    <link href="https://vickyxt.com/posts/other/2017-03-01-hello-world.html"/>
+    <id>https://vickyxt.com/posts/other/2017-03-01-hello-world.html</id>
+    <published>2017-03-01T03:22:59.000Z</published>
+    <updated>2017-03-01T03:25:40.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+      <category term="其他" scheme="https://vickyxt.com/categories/other/"/>
+    
+    
+  </entry>
+  
+</feed>
